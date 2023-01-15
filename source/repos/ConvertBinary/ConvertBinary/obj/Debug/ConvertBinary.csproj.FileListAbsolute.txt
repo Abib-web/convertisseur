@@ -1,0 +1,11 @@
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\bin\Debug\ConvertBinary.exe.config
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\bin\Debug\ConvertBinary.exe
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\bin\Debug\ConvertBinary.pdb
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\obj\Debug\ConvertBinary.csproj.AssemblyReference.cache
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\obj\Debug\ConvertBinary.Form1.resources
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\obj\Debug\ConvertBinary.Properties.Resources.resources
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\obj\Debug\ConvertBinary.csproj.GenerateResource.cache
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\obj\Debug\ConvertBinary.csproj.CoreCompileInputs.cache
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\obj\Debug\ConvertBinary.exe
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\obj\Debug\ConvertBinary.pdb
+C:\Users\18736\source\repos\ConvertBinary\ConvertBinary\obj\Debug\ConvertBinary.csproj.SuggestedBindingRedirects.cache
