@@ -1,6 +1,6 @@
 ### Convertisseur 
 
-Il servira à convertir une valeur entre 0 à 15 en
+Ce convertisseur a convertir une valeur entre 0 à 15 en
 format :
 – Décimal
 – Binaire
